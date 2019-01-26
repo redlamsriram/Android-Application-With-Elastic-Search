@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
             //Query Object
 
-            /**
+            /*
              * Sample Query Object:
              *  {"query":{
              *     "query_string":{"query":"William"}
